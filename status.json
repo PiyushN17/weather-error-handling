@@ -1,0 +1,9 @@
+{
+  "400": "Bad request. Please check your input.",
+  "401": "Unauthorized. Please log in.",
+  "403": "You do not have permission to access this resource.",
+  "404": "City not found.",
+  "429": "Too many requests. Please try again later.",
+  "500": "Server error. Please try again later.",
+  "default": "Something went wrong. Please try again."
+}
